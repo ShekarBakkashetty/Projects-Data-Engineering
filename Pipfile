@@ -8,7 +8,7 @@ pandas="*"
 pyodbc="*"
 sqlalchemy="*"
 pyspark="*"
-
+findspark = "*"
 [dev-packages]
 
 [requires]
