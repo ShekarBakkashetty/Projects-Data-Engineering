@@ -5,3 +5,10 @@ name = "pypi"
 
 [packages]
 pandas="*"
+pyodbc="*"
+sqlalchemy="*"
+pyspark="*"
+
+[dev-packages]
+
+[requires]
