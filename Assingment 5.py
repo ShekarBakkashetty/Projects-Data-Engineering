@@ -37,4 +37,6 @@ if __name__ == "__main__":
     print(df)
 
     #df2 = sql.createDataFrame(df)
-
+    #df2.write.csv('I:\C driver\Ingrity\Output',header=TRUE)
+    #df2.write.json('I:\C driver\Ingrity\Output')
+    #df2.write.parquet('I:\C driver\Ingrity\Output')
