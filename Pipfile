@@ -9,6 +9,8 @@ pyodbc="*"
 sqlalchemy="*"
 pyspark="*"
 findspark = "*"
+streamlit = "*"
 [dev-packages]
 
 [requires]
+python_version = "3.8"
